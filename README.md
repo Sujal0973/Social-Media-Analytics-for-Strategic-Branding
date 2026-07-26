@@ -12,7 +12,9 @@
 
 An end-to-end **Social Media Analytics** project that transforms raw social media campaign data into actionable business insights using **Microsoft Excel**, **Power Query**, **Pivot Tables**, **Pivot Charts**, and **Interactive Dashboards**.
 
-The project analyses engagement, content performance, campaign effectiveness, platform growth, and marketing ROI to provide strategic recommendations for improving brand performance across multiple social media platforms.
+The project analyses engagement metrics, content performance, campaign effectiveness, platform growth, and marketing ROI to deliver actionable business recommendations across **Instagram**, **Twitter (X)**, and **YouTube**.
+
+> 🎥 **Includes two narrated project walkthrough videos explaining the dashboards, analysis process, KPI calculations, and business recommendations.**
 
 ---
 
@@ -20,7 +22,20 @@ The project analyses engagement, content performance, campaign effectiveness, pl
 
 Modern businesses rely heavily on social media platforms to engage audiences and grow their brand presence. This project demonstrates how raw marketing data can be transformed into meaningful business insights through data cleaning, exploratory analysis, KPI reporting, dashboard creation, and strategic recommendations.
 
-The analysis focuses on evaluating campaign performance across **Instagram**, **Twitter (X)**, and **YouTube**, enabling data-driven marketing decisions.
+The analysis focuses on evaluating campaign performance across multiple social media platforms, enabling data-driven marketing decisions and supporting strategic brand growth.
+
+---
+
+# ✨ Repository Highlights
+
+- 📊 Interactive Excel dashboards
+- 🧹 Data cleaning using Power Query
+- 📈 KPI reporting and marketing analytics
+- 📉 Pivot Tables & Pivot Charts
+- 🚀 Campaign effectiveness and ROI analysis
+- 💡 Business recommendations based on data insights
+- 🎥 Two narrated project walkthrough videos
+- 💼 Portfolio-ready documentation with screenshots
 
 ---
 
@@ -38,12 +53,12 @@ The analysis focuses on evaluating campaign performance across **Instagram**, **
 
 # 🛠️ Tools & Skills Used
 
-### Software
+## Software
 
 - Microsoft Excel
 - Power Query
 
-### Excel Features
+## Excel Features
 
 - Pivot Tables
 - Pivot Charts
@@ -53,7 +68,7 @@ The analysis focuses on evaluating campaign performance across **Instagram**, **
 - Dashboard Design
 - Data Validation
 
-### Analytics Skills
+## Analytics Skills
 
 - Data Cleaning
 - KPI Reporting
@@ -115,7 +130,7 @@ Performed comprehensive data preparation using Excel and Power Query.
 
 ## 📈 Task 2 — Engagement Analysis
 
-Calculated platform engagement using
+Calculated platform engagement using:
 
 > **(Likes + Comments + Shares) / Impressions**
 
@@ -124,7 +139,7 @@ Calculated platform engagement using
 - Top-performing posts
 - Engagement Rate
 - Hashtag Ranking
-- Likes, Shares and Comments Analysis
+- Likes, Shares, and Comments Analysis
 
 ![Task 2](screenshots/task2_engagement_analysis.png)
 
@@ -164,7 +179,7 @@ Analysed different content formats to determine which content type performs best
 
 ## 🚀 Task 5 — Campaign Effectiveness
 
-Measured campaign success using marketing KPIs.
+Measured campaign success using key marketing KPIs.
 
 ### KPIs
 
@@ -182,7 +197,7 @@ Measured campaign success using marketing KPIs.
 
 ## 💡 Task 6 — Strategic Business Recommendations
 
-The final dashboard combines all previous analyses to provide practical recommendations.
+The final dashboard combines all previous analyses to provide practical recommendations for improving social media performance.
 
 ### Key Recommendations
 
@@ -203,6 +218,26 @@ The final dashboard combines all previous analyses to provide practical recommen
 - Campaign ROI varied significantly across campaigns.
 - Certain hashtags consistently generated higher engagement.
 - Data-driven marketing decisions improve campaign effectiveness.
+
+---
+
+# 🎥 Project Demonstration
+
+To provide a better understanding of the project, I created **two narrated walkthrough videos** explaining the complete workflow, dashboard development process, KPI calculations, and the final business insights.
+
+### 📂 Watch the Demonstration Videos
+
+👉 **[Project Demonstration Videos](https://drive.google.com/drive/folders/11RYV_vhGg1nfqKndEduOjqYaWdS2OpHv?usp=drive_link)**
+
+### The videos cover
+
+- 📊 Dashboard overview
+- 🧹 Data cleaning using Power Query
+- 📈 Pivot Tables and Pivot Charts
+- 📉 KPI calculations
+- 📌 Marketing campaign analysis
+- 💡 Strategic business recommendations
+- 📑 Explanation of each dashboard and analytical approach
 
 ---
 
@@ -235,15 +270,17 @@ Social-Media-Analytics-for-Strategic-Branding
 
 # 🚀 Getting Started
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Sujal0973/Social-Media-Analytics-for-Strategic-Branding.git
 ```
 
-2. Open any Excel workbook from the `excel-files` folder.
+### 2. Navigate to the `excel-files` folder.
 
-3. Explore the dashboards using the available Pivot Table filters and slicers.
+### 3. Open the workbook corresponding to the task you want to explore.
+
+### 4. Interact with the dashboards using Pivot Table filters, Pivot Charts, and slicers to explore the analysis.
 
 ---
 
@@ -257,36 +294,37 @@ git clone https://github.com/Sujal0973/Social-Media-Analytics-for-Strategic-Bran
 - Pivot Charts
 - Marketing Analytics
 - KPI Reporting
+- ROI Analysis
 - Business Intelligence
 - Data Visualization
 - Business Recommendation Writing
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Author
 
 **Sujal Agrahari**
 
-Artificial Intelligence & Machine Learning
+Artificial Intelligence & Machine Learning Undergraduate
 
-Dr. Ambedkar Institute of Technology
-
----
-
-**Project Guide**
-
-Internshala Trainings
+Dr. Ambedkar Institute of Technology, Bengaluru
 
 ---
 
-## ⭐ Acknowledgement
+## 🎓 Acknowledgement
 
-This project was developed as part of the **Data Management and Analysis with MS Excel** training offered by **Internshala Trainings**. The project demonstrates practical applications of Excel-based data cleaning, dashboard development, KPI analysis, and business intelligence techniques learned during the course.
+This project was developed as part of the **Data Management and Analysis with MS Excel** training offered by **Internshala Trainings**.
+
+The training provided the project requirements and dataset, while the complete analysis, dashboards, documentation, visualisations, and business recommendations were independently developed by the author.
+
+---
 
 ## 📌 Note
 
-This repository is intended for educational and portfolio purposes. The dataset was provided as part of the Internshala training, while the analysis, dashboards, visualizations, and business recommendations were created by the author.
+This repository is intended for educational and portfolio purposes. The dataset was provided as part of the Internshala training, while the analysis, dashboards, visualisations, and business recommendations were created by the author.
 
 ---
 
-⭐ If you found this project useful, consider giving the repository a **Star**!
+## ⭐ Support
+
+If you found this project useful or interesting, consider giving the repository a **⭐ Star**. Your support is greatly appreciated!
